@@ -12,4 +12,9 @@ This project draws inspiration from the iconic Harry Potter scene where Ron Weas
 ## 📱 App <br>
 This project is a fully functional app available at the following link: [Launch App]() <p>
 ## 📢 Pitch Format <br>
-1. Problem   2. Solution   3. Market   4. Product   5. Company Name   6. Smile
+1. Problem
+2. Solution
+3. Market
+4. Product
+5. Company Name
+6. Smile
