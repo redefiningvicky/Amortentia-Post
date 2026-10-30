@@ -10,6 +10,8 @@ This project draws inspiration from the iconic Harry Potter and the Half-Blood s
 <sub>Click the image above to watch the video.</sub> <p>
 ## 🛠️ Tools <br>
 Lovable <p>
+## 🪙 Lovable Credit Usage
+
 ## 📱 App <br>
 This project is a fully functional app available at the following link: [Launch App]() <p>
 ## 📢 Pitch Format <br>
