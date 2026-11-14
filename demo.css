@@ -41,6 +41,8 @@
 
 /* GitHub Pages home credit sits outside the phone, like the pitch footer. */
 .demo-creator-footer {
+  font-size: 14px;
+  line-height: 1.25;
   position: fixed;
   left: 7.2917vw;
   bottom: 5.1852vh;
