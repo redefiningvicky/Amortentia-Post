@@ -46,11 +46,33 @@
   bottom: 5.1852vh;
   z-index: 10;
 }
-@media (max-width: 760px) {
+/* On narrower screens, reserve a separate page footer below the phone. */
+@media (max-width: 1000px) {
+  body:has(.demo-creator-footer) {
+    --demo-footer-height: 80px;
+  }
+  #root:has(.demo-creator-footer) .shadow-frame {
+    min-height: calc(100svh - var(--demo-footer-height));
+    min-height: calc(100dvh - var(--demo-footer-height));
+  }
+  #root:has(.demo-creator-footer) .shadow-frame > .z-10 {
+    min-height: calc(100svh - var(--demo-footer-height) - var(--app-nav-height) - .75rem);
+    min-height: calc(100dvh - var(--demo-footer-height) - var(--app-nav-height) - .75rem);
+  }
+  #root:has(.demo-creator-footer) .shadow-frame > .z-10 > div:first-child {
+    height: clamp(7rem, calc(100svh - var(--demo-footer-height) - var(--app-nav-height) - 24rem), 26rem);
+    height: clamp(7rem, calc(100dvh - var(--demo-footer-height) - var(--app-nav-height) - 24rem), 26rem);
+  }
+  #root:has(.demo-creator-footer) > nav {
+    bottom: var(--demo-footer-height);
+  }
   .demo-creator-footer {
     position: relative;
     left: auto;
     bottom: auto;
-    padding: 1rem 1.5rem calc(var(--app-nav-height) + 1rem);
+    display: flex;
+    align-items: center;
+    min-height: var(--demo-footer-height);
+    padding: 0 24px;
   }
 }
