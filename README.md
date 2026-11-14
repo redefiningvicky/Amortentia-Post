@@ -88,7 +88,7 @@
 <h2 id="app">📱 App</h2>
 
 <p>
-  <a href="https://redefiningvicky.github.io/amortentia-post-0764d734/#/">
+  <a href="https://redefiningvicky.github.io/Amortentia-Post/#/">
     Launch App
   </a>
 </p>
@@ -98,7 +98,7 @@
 <h2 id="pitch">📢 Pitch</h2>
 
 <p>
-  <a href="https://redefiningvicky.github.io/amortentia-post-0764d734/#/pitch?slide=1">
+  <a href="https://redefiningvicky.github.io/Amortentia-Post/#/pitch?slide=1">
     Launch Pitch
   </a>
 </p>
@@ -126,7 +126,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/amortentia-post-0764d734/blob/main/app-store/01-app-store.png">
+      <a href="https://github.com/redefiningvicky/Amortentia-Post/blob/main/app-store/01-app-store.png">
         <img
           src="app-store/01-app-store.png"
           alt="Amortentia Post app preview"
@@ -142,7 +142,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/amortentia-post-0764d734/blob/main/exports/pitch/png/01-problem.png">
+      <a href="https://github.com/redefiningvicky/Amortentia-Post/blob/main/exports/pitch/png/01-problem.png">
         <img
           src="exports/pitch/png/01-problem.png"
           alt="Amortentia Post pitch slide 1 - Problem"
@@ -158,7 +158,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/amortentia-post-0764d734/blob/main/exports/pitch/png/02-solution.png">
+      <a href="https://github.com/redefiningvicky/Amortentia-Post/blob/main/exports/pitch/png/02-solution.png">
         <img
           src="exports/pitch/png/02-solution.png"
           alt="Amortentia Post pitch slide 2 - Solution"
@@ -174,7 +174,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/amortentia-post-0764d734/blob/main/exports/pitch/png/03-market.png">
+      <a href="https://github.com/redefiningvicky/Amortentia-Post/blob/main/exports/pitch/png/03-market.png">
         <img
           src="exports/pitch/png/03-market.png"
           alt="Amortentia Post pitch slide 3 - Market"
@@ -190,7 +190,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/amortentia-post-0764d734/blob/main/exports/pitch/png/04-product.png">
+      <a href="https://github.com/redefiningvicky/Amortentia-Post/blob/main/exports/pitch/png/04-product.png">
         <img
           src="exports/pitch/png/04-product.png"
           alt="Amortentia Post pitch slide 4 - Product"
@@ -206,7 +206,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/amortentia-post-0764d734/blob/main/exports/pitch/png/05-the-payoff.png">
+      <a href="https://github.com/redefiningvicky/Amortentia-Post/blob/main/exports/pitch/png/05-the-payoff.png">
         <img
           src="exports/pitch/png/05-the-payoff.png"
           alt="Amortentia Post pitch slide 5 - The Payoff"
@@ -222,7 +222,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/amortentia-post-0764d734/blob/main/exports/pitch/png/06-smile.png">
+      <a href="https://github.com/redefiningvicky/Amortentia-Post/blob/main/exports/pitch/png/06-smile.png">
         <img
           src="exports/pitch/png/06-smile.png"
           alt="Amortentia Post pitch slide 6 - Smile"
