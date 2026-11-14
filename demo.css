@@ -38,3 +38,17 @@
   margin-top: .75rem;
   line-height: 1.25;
 }
+
+/* Creator attribution for the GitHub Pages home screen. */
+#root .demo-creator-credit {
+  display: block;
+  width: fit-content;
+  margin: .5rem auto 0;
+  color: hsl(var(--gold));
+  font-style: normal;
+}
+#root .demo-creator-credit:hover,
+#root .demo-creator-credit:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: .2em;
+}
