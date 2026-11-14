@@ -39,16 +39,18 @@
   line-height: 1.25;
 }
 
-/* Creator attribution for the GitHub Pages home screen. */
-#root .demo-creator-credit {
-  display: block;
-  width: fit-content;
-  margin: .5rem auto 0;
-  color: hsl(var(--gold));
-  font-style: normal;
+/* GitHub Pages home credit sits outside the phone, like the pitch footer. */
+.demo-creator-footer {
+  position: fixed;
+  left: 7.2917vw;
+  bottom: 5.1852vh;
+  z-index: 10;
 }
-#root .demo-creator-credit:hover,
-#root .demo-creator-credit:focus-visible {
-  text-decoration: underline;
-  text-underline-offset: .2em;
+@media (max-width: 760px) {
+  .demo-creator-footer {
+    position: relative;
+    left: auto;
+    bottom: auto;
+    padding: 1rem 1.5rem calc(var(--app-nav-height) + 1rem);
+  }
 }
