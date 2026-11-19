@@ -76,6 +76,10 @@
 </p>
 
 <p>
+  <strong>Workflow:</strong> ChatGPT → Lovable → Github
+</p>
+
+<p>
   <strong>Model:</strong> ChatGPT 6.1 Sol (2026)
 </p>
 
