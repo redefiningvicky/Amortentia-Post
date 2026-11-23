@@ -76,7 +76,7 @@
 </p>
 
 <p>
-  <strong>Workflow:</strong> ChatGPT → Lovable → Github
+  <strong>Workflow:</strong> ChatGPT → Lovable → GitHub
 </p>
 
 <p>
